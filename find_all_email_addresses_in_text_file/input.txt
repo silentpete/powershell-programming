@@ -1,0 +1,5 @@
+blub first.last@domain.com         last.first@domain.com
+
+flast@some-domain.net;
+
+first.m.last@domain.io
